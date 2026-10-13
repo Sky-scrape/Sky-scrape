@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" role="img" aria-labelledby="title desc">
   <title id="title">我们是不断发展的叙事 · To love is to see the universe in someone</title>
-  <desc id="desc">A restrained bilingual typing animation with a blinking caret.</desc>
+  <desc id="desc">Centered bilingual typing animation with a blinking caret.</desc>
   <style>
     .message {
       fill: #b8d8d1;
@@ -8,44 +8,45 @@
       font-size: 25px;
       font-weight: 600;
       letter-spacing: .2px;
+      text-anchor: middle;
     }
-    .reveal-cn { animation: type-cn 9s steps(11, end) infinite; }
-    .reveal-en { animation: type-en 9s steps(43, end) infinite; }
-    .caret-cn { animation: caret-cn 9s steps(11, end) infinite, blink .75s step-end infinite; }
-    .caret-en { animation: caret-en 9s steps(43, end) infinite, blink .75s step-end infinite; }
-    @keyframes type-cn {
-      0%, 8% { width: 0; }
-      32%, 42% { width: 275px; }
-      50%, 100% { width: 0; }
+    .reveal-cn { animation: reveal-cn 12s steps(11, end) infinite; }
+    .reveal-en { animation: reveal-en 12s steps(43, end) infinite; }
+    .caret-cn { animation: caret-cn 12s steps(11, end) infinite, blink .75s step-end infinite; }
+    .caret-en { animation: caret-en 12s steps(43, end) infinite, blink .75s step-end infinite; }
+    @keyframes reveal-cn {
+      0%, 8% { width: 0; x: 450px; }
+      25%, 38% { width: 275px; x: 312.5px; }
+      50%, 100% { width: 0; x: 450px; }
     }
-    @keyframes type-en {
-      50%, 58% { width: 0; }
-      84%, 94% { width: 635px; }
-      100% { width: 0; }
+    @keyframes reveal-en {
+      50%, 58% { width: 0; x: 450px; }
+      75%, 88% { width: 635px; x: 132.5px; }
+      100% { width: 0; x: 450px; }
     }
     @keyframes caret-cn {
-      0%, 8% { transform: translateX(-275px); }
-      32%, 42% { transform: translateX(0); }
-      50%, 100% { transform: translateX(-275px); }
+      0%, 8% { transform: translateX(0); }
+      25%, 38% { transform: translateX(137.5px); }
+      50%, 100% { transform: translateX(0); }
     }
     @keyframes caret-en {
-      50%, 58% { transform: translateX(-635px); }
-      84%, 94% { transform: translateX(0); }
-      100% { transform: translateX(-635px); }
+      50%, 58% { transform: translateX(0); }
+      75%, 88% { transform: translateX(317.5px); }
+      100% { transform: translateX(0); }
     }
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .reveal-cn { width: 275px; animation: none; }
-      .reveal-en { width: 635px; animation: none; }
+      .reveal-cn { width: 275px; x: 312.5px; animation: none; }
+      .reveal-en { width: 635px; x: 132.5px; animation: none; }
       .caret-cn, .caret-en { display: none; }
     }
   </style>
   <defs>
-    <clipPath id="typing-cn"><rect class="reveal-cn" x="12" y="5" width="275" height="40"/></clipPath>
-    <clipPath id="typing-en"><rect class="reveal-en" x="12" y="51" width="635" height="40"/></clipPath>
+    <clipPath id="typing-cn"><rect class="reveal-cn" y="12" height="48"/></clipPath>
+    <clipPath id="typing-en"><rect class="reveal-en" y="12" height="48"/></clipPath>
   </defs>
-  <text class="message" x="12" y="34" clip-path="url(#typing-cn)">我们是不断发展的叙事</text>
-  <rect class="caret-cn" x="287" y="10" width="3" height="30" rx="1.5" fill="#91c7b0"/>
-  <text class="message" x="12" y="80" clip-path="url(#typing-en)">To love is to see the universe in someone</text>
-  <rect class="caret-en" x="647" y="56" width="3" height="30" rx="1.5" fill="#91c7b0"/>
+  <text class="message" x="450" y="45" clip-path="url(#typing-cn)">我们是不断发展的叙事</text>
+  <rect class="caret-cn" x="450" y="19" width="3" height="30" rx="1.5" fill="#91c7b0"/>
+  <text class="message" x="450" y="45" clip-path="url(#typing-en)">To love is to see the universe in someone</text>
+  <rect class="caret-en" x="450" y="19" width="3" height="30" rx="1.5" fill="#91c7b0"/>
 </svg>
