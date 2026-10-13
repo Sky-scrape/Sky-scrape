@@ -15,10 +15,10 @@
 
 <div align="center">
 
-Hi，我是Skysheep，<br>
+Hi，我是Skysheep<br>
 笔名/网名 千口乚，取自“乱”<br>
-爱好诗与摄影，<br>
-最近沉迷Vibe Coding，<br>
+爱好诗与摄影<br>
+最近沉迷Vibe Coding<br>
 一个无所事事的梦者
 
 </div>
