@@ -4,6 +4,11 @@
   <img src="./assets/hero.svg" alt="Skysheep — local AI, data products, and digital experiments" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/typing-dark.svg">
+  <img src="./assets/typing-light.svg" alt="我们是不断发展的叙事 · To love is to see the universe in someone" width="86%">
+</picture>
+
 <p><b>中文</b>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#english">English</a></p>
 
 </div>
