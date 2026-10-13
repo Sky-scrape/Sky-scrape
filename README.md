@@ -80,23 +80,6 @@ Data products     Dashboards, market signals, and visual analytics
 Creative software Simulations, games, and experiments about digital culture
 ```
 
-## 📊 Live GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sky-scrape&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-scrape&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Sky-scrape&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sky-scrape&bg_color=00000000&color=58A6FF&line=238636&point=F0883E&area=true&hide_border=true" width="92%" alt="Contribution activity graph" />
-
-</div>
-
 ## 🐍 Contribution animation
 
 <div align="center">
