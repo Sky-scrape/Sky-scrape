@@ -1,29 +1,31 @@
 <div align="center">
 
-# Hi, I'm Skysheep 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Skysheep+%F0%9F%91%8B;你好，我是 Skysheep %F0%9F%91%8B;Building+AI+tools%2C+data+products%2C+and+playful+experiments;正在构建 AI 工具、数据产品与有趣的数字实验" alt="Typing introduction" />
 
-### Explorer · Builder · Human-centered AI enthusiast
+<p>
+  <a href="https://github.com/Sky-scrape?tab=repositories"><img src="https://img.shields.io/badge/Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/Sky-scrape"><img src="https://img.shields.io/github/followers/Sky-scrape?style=for-the-badge&logo=github&label=Followers&color=238636" alt="Followers" /></a>
+  <a href="https://github.com/Sky-scrape"><img src="https://komarev.com/ghpvc/?username=Sky-scrape&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views" /></a>
+</p>
 
-*An explorer, always drawn to the unknown.*
-
-[![GitHub followers](https://img.shields.io/github/followers/Sky-scrape?style=flat-square&logo=github&label=Followers)](https://github.com/Sky-scrape)
-[![Profile views](https://komarev.com/ghpvc/?username=Sky-scrape&style=flat-square&color=blue)](https://github.com/Sky-scrape)
-[![Location](https://img.shields.io/badge/Beijing-161B22?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Sky-scrape)
+<p>
+  <b>中文</b> · <a href="#english">English</a>
+</p>
 
 </div>
 
-## About me
+## 🇨🇳 中文
 
-I'm **Skysheep**, a student at **Renmin University of China** building practical tools at the intersection of software, AI, finance, and digital culture.
+你好，我是 **Skysheep**，中国人民大学学生，常驻北京。
 
-I like turning open-ended ideas into things people can actually use: a local-first AI workspace, a market dashboard, or a game about online attention and public opinion.
+我喜欢把开放的想法做成真正可以使用的东西：本地优先的 AI 工作台、A 股数据产品，以及关于网络舆论与数字文化的互动实验。
 
-- 🔭 Currently exploring **local AI agents, intelligent tools, and product engineering**
-- 🧭 Interested in **AI × finance × interaction design**
-- 🏠 Based in **Beijing**
-- 🌱 Learning by building, shipping, and iterating
+- 🔭 正在探索 **本地 AI Agent、智能工具与产品工程**
+- 🧭 关注 **AI × 金融 × 交互设计**
+- 🛠️ 喜欢从想法出发，快速构建、发布和迭代
+- 📮 欢迎通过项目 Issue 交流想法
 
-## Featured projects
+## 🚀 精选项目
 
 <table>
 <tr>
@@ -31,7 +33,7 @@ I like turning open-ended ideas into things people can actually use: a local-fir
 
 ### 🐑 [SkySheep](https://github.com/Sky-scrape/SkySheep)
 
-A local-first open-source AI Agent workspace that can see, act, and ask before each step.
+运行在本地的开源 AI Agent 工作台：能看、能做，每一步都先询问你。
 
 `Python` · `Windows` · `Local-first AI`
 
@@ -40,7 +42,7 @@ A local-first open-source AI Agent workspace that can see, act, and ask before e
 
 ### 📈 [a-share-dashboard](https://github.com/Sky-scrape/a-share-dashboard)
 
-An A-share dashboard for live market monitoring, intraday rotation, after-hours review, and strategy exploration.
+A 股盯盘与策略系统，支持实时竞价、日内轮动、盘后复盘与量化探索。
 
 `Python` · `ECharts` · `Quant`
 
@@ -49,43 +51,64 @@ An A-share dashboard for live market monitoring, intraday rotation, after-hours 
 
 ### 🎮 [daijiezou](https://github.com/Sky-scrape/daijiezou)
 
-A pixel-art simulation game where posts, hot searches, and public opinion move your fictional stock price.
+像素风舆情操盘模拟游戏：发帖、买热搜、带节奏，把你的「知乎概念股」抬上天。
 
-`JavaScript` · `Game` · `Zhihu Hackathon`
+`JavaScript` · `Game` · `Hackathon`
 
 </td>
 </tr>
 </table>
 
-## What I build
+<a id="english"></a>
+
+## 🇬🇧 English
+
+Hi, I'm **Skysheep**, a student at **Renmin University of China**, based in Beijing.
+
+I enjoy turning open-ended ideas into useful things: a local-first AI workspace, a market data product, or an interactive experiment about online opinion and digital culture.
+
+- 🔭 Exploring **local AI agents, intelligent tools, and product engineering**
+- 🧭 Interested in **AI × finance × interaction design**
+- 🛠️ Learning by building, shipping, and iterating
+- 📮 Open to ideas and conversations through project issues
+
+## 🧩 What I build
 
 ```text
-AI tools          local-first workflows, agents, human-in-the-loop interaction
-Data products     dashboards, market signals, visual analytics
-Creative software simulations, games, and experiments about digital culture
+AI tools          Local-first workflows, agents, and human-in-the-loop interaction
+Data products     Dashboards, market signals, and visual analytics
+Creative software Simulations, games, and experiments about digital culture
 ```
 
-## GitHub activity
+## 📊 Live GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sky-scrape&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="Skysheep's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-scrape&layout=compact&hide_border=true&theme=transparent" height="165" alt="Skysheep's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sky-scrape&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sky-scrape&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Sky-scrape&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sky-scrape&bg_color=00000000&color=58A6FF&line=238636&point=F0883E&area=true&hide_border=true" width="92%" alt="Contribution activity graph" />
 
 </div>
 
+## 🐍 Contribution animation
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sky-scrape&hide_border=true&theme=transparent)](https://git.io/streak-stats)
+<img src="https://raw.githubusercontent.com/Sky-scrape/Sky-scrape/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 </div>
 
-## Let's connect
-
-If you're interested in **local AI, intelligent products, quantitative tools, or playful experiments**, feel free to explore my repositories or open an issue to say hello.
+> The contribution animation is generated automatically by GitHub Actions.
 
 <div align="center">
 
-[![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sky-scrape?tab=repositories)
+[![Explore repositories](https://img.shields.io/badge/Explore_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sky-scrape?tab=repositories)
 
 </div>
