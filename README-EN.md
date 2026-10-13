@@ -15,10 +15,10 @@
 
 <div align="center">
 
-Hi, I'm Skysheep,<br>
-Pen name 千口乚, taken from 乱 (chaos),<br>
-I love poetry and photography,<br>
-Recently hooked on Vibe Coding,<br>
+Hi, I'm Skysheep<br>
+Pen name 千口乚, taken from 乱 (chaos)<br>
+I love poetry and photography<br>
+Recently hooked on Vibe Coding<br>
 An idle dreamer
 
 </div>
