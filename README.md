@@ -13,14 +13,12 @@
 
 </div>
 
-## 中文
-
 你好，我是 **Skysheep**，中国人民大学学生，常驻北京。
 
 我喜欢把开放的想法做成真正可以使用的东西：本地优先的 AI 工作台、A 股数据产品，以及关于网络舆论与数字文化的互动实验。
 
 <details>
-<summary><h2>构建方向</h2></summary>
+<summary><h2 align="center">构建方向</h2></summary>
 
 **智能工具**
 
@@ -37,7 +35,7 @@
 </details>
 
 <details>
-<summary><h2>精选项目</h2></summary>
+<summary><h2 align="center">精选项目</h2></summary>
 
 <p>
   <strong><a href="https://github.com/Sky-scrape/SkySheep">SkySheep</a></strong><br>
@@ -59,7 +57,7 @@
 
 </details>
 
-## 轨迹
+<h2 align="center">轨迹</h2>
 
 <div align="center">
 <picture>
