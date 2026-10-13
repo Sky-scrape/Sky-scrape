@@ -13,9 +13,15 @@
 
 </div>
 
-Hi, I'm **Skysheep**, a student at **Renmin University of China**, based in Beijing.
+<div align="center">
 
-I enjoy turning open-ended ideas into useful things: a local-first AI workspace, a market data product, or an interactive experiment about online opinion and digital culture.
+Hi, I'm Skysheep,<br>
+Pen name 千口乚, taken from 乱 (chaos),<br>
+I love poetry and photography,<br>
+Recently hooked on Vibe Coding,<br>
+An idle dreamer
+
+</div>
 
 <details>
 <summary><div align="center"><h2 align="center">Building with</h2></div></summary>
