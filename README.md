@@ -13,9 +13,15 @@
 
 </div>
 
-你好，我是 **Skysheep**，中国人民大学学生，常驻北京。
+<div align="center">
 
-我喜欢把开放的想法做成真正可以使用的东西：本地优先的 AI 工作台、A 股数据产品，以及关于网络舆论与数字文化的互动实验。
+Hi，我是Skysheep，<br>
+笔名/网名 千口乚，取自“乱”<br>
+爱好诗与摄影，<br>
+最近沉迷Vibe Coding，<br>
+一个无所事事的梦者
+
+</div>
 
 <details>
 <summary><div align="center"><h2 align="center">构建方向</h2></div></summary>
