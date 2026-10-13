@@ -18,7 +18,7 @@ Hi, I'm **Skysheep**, a student at **Renmin University of China**, based in Beij
 I enjoy turning open-ended ideas into useful things: a local-first AI workspace, a market data product, or an interactive experiment about online opinion and digital culture.
 
 <details>
-<summary><h2 align="center">Building with</h2></summary>
+<summary><div align="center"><h2 align="center">Building with</h2></div></summary>
 
 **Intelligent tools**
 
@@ -35,7 +35,7 @@ I enjoy turning open-ended ideas into useful things: a local-first AI workspace,
 </details>
 
 <details>
-<summary><h2 align="center">Selected projects</h2></summary>
+<summary><div align="center"><h2 align="center">Selected projects</h2></div></summary>
 
 <p>
   <strong><a href="https://github.com/Sky-scrape/SkySheep">SkySheep</a></strong><br>
