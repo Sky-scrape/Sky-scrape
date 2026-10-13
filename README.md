@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Skysheep+%F0%9F%91%8B;你好，我是 Skysheep %F0%9F%91%8B;Building+AI+tools%2C+data+products%2C+and+playful+experiments;正在构建 AI 工具、数据产品与有趣的数字实验" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Skysheep+%F0%9F%91%8B;你好，我是 Skysheep %F0%9F%91%8B;Building+AI+tools%2C+data+products%2C+and+playful+experiments;正在构建 AI 工具、数据产品与有趣的数字实验" alt="" />
 
 <p>
   <a href="https://github.com/Sky-scrape?tab=repositories"><img src="https://img.shields.io/badge/Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
