@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Skysheep+%F0%9F%91%8B;你好，我是 Skysheep %F0%9F%91%8B;Building+AI+tools%2C+data+products%2C+and+playful+experiments;正在构建 AI 工具、数据产品与有趣的数字实验" alt="" />
+<picture>
+  <img src="./assets/hero.svg" alt="Skysheep — local AI, data products, and digital experiments" width="100%">
+</picture>
 
-<p>
-  <a href="https://github.com/Sky-scrape?tab=repositories"><img src="https://img.shields.io/badge/Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <a href="https://github.com/Sky-scrape"><img src="https://img.shields.io/github/followers/Sky-scrape?style=for-the-badge&logo=github&label=Followers&color=238636" alt="Followers" /></a>
-  <a href="https://github.com/Sky-scrape"><img src="https://komarev.com/ghpvc/?username=Sky-scrape&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views" /></a>
-</p>
-
-<p>
-  <b>中文</b> · <a href="#english">English</a>
-</p>
+<p><b>中文</b>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#english">English</a></p>
 
 </div>
 
@@ -20,44 +14,45 @@
 
 我喜欢把开放的想法做成真正可以使用的东西：本地优先的 AI 工作台、A 股数据产品，以及关于网络舆论与数字文化的互动实验。
 
-- 🔭 正在探索 **本地 AI Agent、智能工具与产品工程**
-- 🧭 关注 **AI × 金融 × 交互设计**
-- 🛠️ 喜欢从想法出发，快速构建、发布和迭代
-- 📮 欢迎通过项目 Issue 交流想法
+<details>
+<summary><h2>构建方向</h2></summary>
 
-## 🚀 精选项目
+**智能工具**
 
-<table>
-<tr>
-<td width="33%" valign="top">
+`Local-first AI` · `Agents` · `Human-in-the-loop`
 
-### 🐑 [SkySheep](https://github.com/Sky-scrape/SkySheep)
+**数据产品**
 
-运行在本地的开源 AI Agent 工作台：能看、能做，每一步都先询问你。
+`Dashboards` · `Market signals` · `Visual analytics`
 
-`Python` · `Windows` · `Local-first AI`
+**创意软件**
 
-</td>
-<td width="33%" valign="top">
+`Interactive experiments` · `Games` · `Digital culture`
 
-### 📈 [a-share-dashboard](https://github.com/Sky-scrape/a-share-dashboard)
+</details>
 
-A 股盯盘与策略系统，支持实时竞价、日内轮动、盘后复盘与量化探索。
+<details>
+<summary><h2>精选项目</h2></summary>
 
-`Python` · `ECharts` · `Quant`
+<p>
+  <strong><a href="https://github.com/Sky-scrape/SkySheep">SkySheep</a></strong><br>
+  跑在你电脑上的开源 AI Agent 工作台：能看、能做，每一步都先询问你。<br>
+  <sub>Python · Windows · Local-first AI</sub>
+</p>
 
-</td>
-<td width="33%" valign="top">
+<p>
+  <strong><a href="https://github.com/Sky-scrape/a-share-dashboard">a-share-dashboard</a></strong><br>
+  个人 A 股盯盘与策略系统，支持实时竞价、日内轮动、盘后复盘和明日备选池。<br>
+  <sub>Python · ECharts · Quant</sub>
+</p>
 
-### 🎮 [daijiezou](https://github.com/Sky-scrape/daijiezou)
+<p>
+  <strong><a href="https://github.com/Sky-scrape/daijiezou">daijiezou</a></strong><br>
+  像素风舆情操盘模拟游戏：发帖、买热搜、带节奏，把你的「知乎概念股」抬上天。<br>
+  <sub>JavaScript · Game · Hackathon</sub>
+</p>
 
-像素风舆情操盘模拟游戏：发帖、买热搜、带节奏，把你的「知乎概念股」抬上天。
-
-`JavaScript` · `Game` · `Hackathon`
-
-</td>
-</tr>
-</table>
+</details>
 
 <a id="english"></a>
 
@@ -67,31 +62,59 @@ Hi, I'm **Skysheep**, a student at **Renmin University of China**, based in Beij
 
 I enjoy turning open-ended ideas into useful things: a local-first AI workspace, a market data product, or an interactive experiment about online opinion and digital culture.
 
-- 🔭 Exploring **local AI agents, intelligent tools, and product engineering**
-- 🧭 Interested in **AI × finance × interaction design**
-- 🛠️ Learning by building, shipping, and iterating
-- 📮 Open to ideas and conversations through project issues
+<details>
+<summary><h2>Building with</h2></summary>
 
-## 🧩 What I build
+**Intelligent tools**
 
-```text
-AI tools          Local-first workflows, agents, and human-in-the-loop interaction
-Data products     Dashboards, market signals, and visual analytics
-Creative software Simulations, games, and experiments about digital culture
-```
+`Local-first AI` · `Agents` · `Human-in-the-loop`
 
-## 🐍 Contribution animation
+**Data products**
+
+`Dashboards` · `Market signals` · `Visual analytics`
+
+**Creative software**
+
+`Interactive experiments` · `Games` · `Digital culture`
+
+</details>
+
+<details>
+<summary><h2>Selected projects</h2></summary>
+
+<p>
+  <strong><a href="https://github.com/Sky-scrape/SkySheep">SkySheep</a></strong><br>
+  An open-source local AI Agent workspace that can see, act, and ask before each step.<br>
+  <sub>Python · Windows · Local-first AI</sub>
+</p>
+
+<p>
+  <strong><a href="https://github.com/Sky-scrape/a-share-dashboard">a-share-dashboard</a></strong><br>
+  A personal A-share dashboard for live monitoring, intraday rotation, after-hours review, and strategy exploration.<br>
+  <sub>Python · ECharts · Quant</sub>
+</p>
+
+<p>
+  <strong><a href="https://github.com/Sky-scrape/daijiezou">daijiezou</a></strong><br>
+  A pixel-art simulation game where posts, hot searches, and public opinion move your fictional stock price.<br>
+  <sub>JavaScript · Game · Hackathon</sub>
+</p>
+
+</details>
+
+## 轨迹 · Trajectory
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sky-scrape/Sky-scrape/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sky-scrape/Sky-scrape/gh-pages/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sky-scrape/Sky-scrape/gh-pages/github-contribution-grid-snake-light.svg" alt="Skysheep's GitHub contribution trajectory" width="100%">
+</picture>
 </div>
 
-> The contribution animation is generated automatically by GitHub Actions.
-
 <div align="center">
 
-[![Explore repositories](https://img.shields.io/badge/Explore_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sky-scrape?tab=repositories)
+**Still learning. Still building. 继续探索，继续构建。**
+
+[Explore repositories](https://github.com/Sky-scrape?tab=repositories)
 
 </div>
