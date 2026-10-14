@@ -26,6 +26,8 @@ An idle dreamer
 <details>
 <summary><div align="center"><h2 align="center">Building with</h2></div></summary>
 
+<div align="center">
+
 **Intelligent tools**
 
 `Local-first AI` · `Agents` · `Human-in-the-loop`
@@ -38,10 +40,14 @@ An idle dreamer
 
 `Interactive experiments` · `Games` · `Digital culture`
 
+</div>
+
 </details>
 
 <details>
 <summary><div align="center"><h2 align="center">Selected projects</h2></div></summary>
+
+<div align="center">
 
 <p>
   <strong><a href="https://github.com/Sky-scrape/SkySheep">SkySheep</a></strong><br>
@@ -60,6 +66,8 @@ An idle dreamer
   A pixel-art simulation game where posts, hot searches, and public opinion move your fictional stock price.<br>
   <sub>JavaScript · Game · Hackathon</sub>
 </p>
+
+</div>
 
 </details>
 
