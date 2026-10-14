@@ -15,16 +15,18 @@
 
 <div align="center">
 
-**Hi，我是Skysheep**<br>
-**笔名/网名 千口乚，取自“乱”**<br>
-**爱好诗与摄影**<br>
-**最近沉迷Vibe Coding**<br>
-**无所事事的梦者**
+Hi，我是Skysheep<br>
+笔名/网名 千口乚，取自“乱”<br>
+爱好诗与摄影<br>
+最近沉迷Vibe Coding<br>
+一个无所事事的梦者
 
 </div>
 
 <details>
 <summary><div align="center"><h2 align="center">构建方向</h2></div></summary>
+
+<div align="center">
 
 **智能工具**
 
@@ -38,10 +40,14 @@
 
 `Interactive experiments` · `Games` · `Digital culture`
 
+</div>
+
 </details>
 
 <details>
 <summary><div align="center"><h2 align="center">精选项目</h2></div></summary>
+
+<div align="center">
 
 <p>
   <strong><a href="https://github.com/Sky-scrape/SkySheep">SkySheep</a></strong><br>
@@ -60,6 +66,8 @@
   像素风舆情操盘模拟游戏：发帖、买热搜、带节奏，把你的「知乎概念股」抬上天。<br>
   <sub>JavaScript · Game · Hackathon</sub>
 </p>
+
+</div>
 
 </details>
 
